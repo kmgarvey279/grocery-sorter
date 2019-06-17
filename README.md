@@ -1,6 +1,6 @@
 # _Grocery Sorter_
 
-#### _A page that takes a list of inputted grocery items, sorts them alphebetically and then returns the sorted list to the user. 04.01.2019_
+#### _A page that takes a list of inputted grocery items, sorts them alphabetically and then returns the sorted list to the user. 04.01.2019_
 
 #### By _**Kevin Garvey**_
 
